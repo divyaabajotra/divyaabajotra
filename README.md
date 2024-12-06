@@ -8,6 +8,7 @@ Hello, and thank you for visiting my GitHub profile! I'm a passionate and dedica
 ### About Me
 I'm driven by a love for coding and problem-solving, with a focus on **frontend technologies** such as React, Vue, HTML5, CSS3, and JavaScript. I am constantly learning new tools, frameworks, and libraries to stay on top of industry trends, and I love turning complex requirements into simple, user-friendly interfaces.
 
+
 At **DevPeak Innovations**, I collaborate with a talented team to build custom solutions tailored to meet the unique needs of our clients. Whether it’s creating sleek user interfaces, optimizing performance, or ensuring accessibility, I am committed to delivering high-quality results.
 
 ### 🔧 Technologies I Work With:
