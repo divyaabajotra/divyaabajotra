@@ -2,7 +2,6 @@
 
 ## Welcome to My GitHub Profile! 👋
 
-
 Hello, and thank you for visiting my GitHub profile! I'm a passionate and dedicated **Frontend Software Developer** at **DevPeak Innovations**, where I've been honing my skills since 2023. I specialize in building clean, intuitive, and high-performance web applications.
 
 ### About Me
