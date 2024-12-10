@@ -5,6 +5,7 @@
 Hello, and thank you for visiting my GitHub profile! I'm a passionate and dedicated **Frontend Software Developer** at **DevPeak Innovations**, where I've been honing my skills since 2023. I specialize in building clean, intuitive, and high-performance web applications.
 
 ### About Me
+
 I'm driven by a love for coding and problem-solving, with a focus on **frontend technologies** such as React, Vue, HTML5, CSS3, and JavaScript. I am constantly learning new tools, frameworks, and libraries to stay on top of industry trends, and I love turning complex requirements into simple, user-friendly interfaces.
 
 
